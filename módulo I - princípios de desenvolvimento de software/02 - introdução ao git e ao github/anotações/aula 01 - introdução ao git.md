@@ -1,0 +1,11 @@
+# introdução ao git
+- o Git é um sistema de versionamento de código distribuído;
+- for criado em 2005 por Linus Torvalds;
+- o Git nos ajuda a monitorar e criar diferentes versões do nosso código dentro da nossa máquina;
+- já o Github é um repositório online para armazenar o nosso código;
+- essas duas ferramentas são frequentemente usadas juntas e possuem vários benefícios:
+  - controle de versão;
+  - armazenamento em nuvem;
+  - trabalho em grupo;
+  - melhoramento de código;
+  - reconhecimento.
