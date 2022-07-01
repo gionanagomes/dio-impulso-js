@@ -40,5 +40,3 @@ echo -e 'blob 9\0conteudo' | openssl sha1
         - o autor;
         - uma mensagem (dá significado aos arquivos).
     - o SHA1 desse commit é o hash de toda essa informação.
-## chave SSH e token
-- 
