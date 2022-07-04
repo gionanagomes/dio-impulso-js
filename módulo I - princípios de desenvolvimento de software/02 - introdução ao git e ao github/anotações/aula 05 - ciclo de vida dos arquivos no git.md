@@ -5,7 +5,7 @@
     - *unmodified*: arquivo que ainda não foi modificado;
     - *modified*: arquivo que sofreu alguma modificação;
     - *staged*: arquivos são preparados para fazer parte de outro agrupamento.
-- **untracked**: arquivos que não temos ciência
+- **untracked**: arquivos que não temos ciência.
 - **servidor**: 
     - remote repository.
 - **ambiente de desenvolvimento**:
